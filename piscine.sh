@@ -210,3 +210,5 @@ mkdir rush02
 cd ..
 cd ..
 mkdir exams
+cd ..
+rm -rf piscine.sh
