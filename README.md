@@ -1,3 +1,9 @@
+# Folder Structure
+
+Have all of the folders for both the Piscine and School already made for you, in an organised way. 
+
+Copy the link below if your a 42 Piscine Student or a 42 School Student. 
+
 # For 42 Piscine Students
 
 Copy the following and paste it in your iTerm.
