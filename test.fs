@@ -1,4 +1,6 @@
-testfolder
+test1folder
 	subfolder{1:4}
-anothertestfolder
+	testmultipletab
+		testfolder
+test2folder
 	subfolder{5:8}
