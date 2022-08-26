@@ -1,12 +1,15 @@
-# Piscine-Folder-Structure
-Folders in neat order for you to use during the 42 Piscine. 
+# For 42 Piscine Students
 
-```sh
-./gen.sh; rm gen.sh; rm piscine.fs
+Copy the following and paste it in your iTerm.
+
+```
+cd Desktop && git clone 
 ```
 
-```sh
-./gen.sh
-rm gen.sh
-rm piscine.fs
+# For 42 School Students
+
+Copy the following and paste it in your iTerm.
+
+```
+
 ```
