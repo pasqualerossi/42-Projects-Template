@@ -1,2 +1,15 @@
-# Piscine-Folder-Structure
-Folders in neat order for you to use during the 42 Piscine. 
+# For 42 Piscine Students
+
+Copy the following and paste it in your iTerm.
+
+```
+
+```
+
+# For 42 School Students
+
+Copy the following and paste it in your iTerm.
+
+```
+
+```
