@@ -34,6 +34,8 @@
  		webserv
  		ft_irc
  		ft_transcendence
+		minishell
+		philosophers
  	evaluations
  		libft
  		born2beroot
