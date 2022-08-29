@@ -1,4 +1,4 @@
-# Folder Structure
+# 42 Projects Template Built in Collaboration with [Aaron Menadue](https://github.com/IsCoffeeTho)
 
 Have all of the folders for both the Piscine and School already made for you, in an organised way. 
 
