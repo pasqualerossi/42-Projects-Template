@@ -1,6 +1,6 @@
 42_school
 	exams
-		examrank02
+		examrank02	
 		examrank03	
 		examrank04
 		examrank05
