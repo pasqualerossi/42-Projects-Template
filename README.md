@@ -7,7 +7,7 @@ Built in Collaboration with [Aaron Menadue](https://github.com/IsCoffeeTho).
 
 ### For 42 Piscine Students
 
-Copy the link and paste it in your iTerm.
+Copy the link and paste it in your iTerm, it can take up to a minute to work.
 
 ```
 cd ~/Desktop; git clone https://github.com/pasqualerossi/42-Projects-Template.git 42fs; 42fs/gen.sh 42fs/piscine.fs; rm -rf 42fs
@@ -15,7 +15,7 @@ cd ~/Desktop; git clone https://github.com/pasqualerossi/42-Projects-Template.gi
 
 ### For 42 School Students
 
-Copy the link and paste it in your iTerm.
+Copy the link and paste it in your iTerm, it can take up to a minute to work.
 
 ```
 cd ~/Desktop; git clone https://github.com/pasqualerossi/42-Projects-Template.git 42fs; 42fs/gen.sh 42fs/school.fs; rm -rf 42fs
